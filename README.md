@@ -1,4 +1,4 @@
-# Q Learning with Mountain Car
+# Setup for Q Learning with Mountain Car
 
 ## Install Miniconda on Windows
 
